@@ -48,5 +48,6 @@
         font-size:20px;
 }
 .calc_btn:hover{
-        background-color:blue;
+        background: linear-gradient(#1d1c1c 30%, #83837f 70% );
+	border-top: 1px solid rgb(199, 199, 199);
 }
